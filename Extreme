@@ -1,4 +1,4 @@
-local HeadSize = 50
+local HeadSize = 25
 local IsDisabled = true
 local IsTeamCheckEnabled = false 
 
